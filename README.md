@@ -1,5 +1,5 @@
 # The Deepest Fish
-fish game
+This game was made as part of the 48 hour Ludum Dare game jam.
 
 **NOTE**: This game was made using the Unity game engine, and this repository only holds the game scripts from the game
 
